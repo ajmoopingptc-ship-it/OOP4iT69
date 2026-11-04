@@ -38,5 +38,5 @@ public class Triangle {
     // เมธอดสำหรับคำนวณหาพื้นที่รูปสามเหลี่ยม (สูตร: 1/2 * ฐาน * สูง)
     public double calculateArea() {
         return 0.5 * base * height;
-    
+    }
 }
